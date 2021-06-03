@@ -1,5 +1,5 @@
 const target = document.getElementById('target')
-let array = ['harder', 'beter', 'faster', 'stronger']
+let array = ['harder', 'better', 'faster', 'stronger']
 let wordIndex = 0 
 let letterIndex = 0
 
